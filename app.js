@@ -6,8 +6,3 @@ function addNum(a,b){
   return a + b;
 }
 
-// funtion to multiply two numbers using arrow function
-  const multiply = (a,b) => a * b;
-
-// funtion to devide two numbers using arrow function
-  const multiply = (a,b) => a / b;
