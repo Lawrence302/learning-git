@@ -8,3 +8,6 @@ function addNum(a,b){
 
 // funtion to multiply two numbers using arrow function
   const multiply = (a,b) => a * b;
+
+// function to devide two numbers
+ const devide = (a,b) => a/b;
